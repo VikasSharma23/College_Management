@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.xml
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.vbprojAssemblyReference.cache
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form1.resources
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Resources.resources
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.xml
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form2.resources
+C:\Users\admin\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form3.resources
